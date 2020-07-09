@@ -12,4 +12,4 @@ I'm only wandering around and learning whatever i stumble upon but my basic plan
 
 > I'm also a Fashion Designer and have my way around knitting/crochet, check out my knitted Ted <br/>
 
-![ted](./working-hard.jpeg)
+![ted](https://raw.githubusercontent.com/guacamole/guacamole/master/working-hard.jpeg)
