@@ -19,6 +19,4 @@ My current stack is:
 
 It has been a long journey and I have a long way to go. I am passionate about design and I Love what I do.
 
-> I'm also into Merch Designing and have my way around knitting/crochet, check out my knitted Ted <br/>
-
-![ted](https://raw.githubusercontent.com/guacamole/guacamole/master/working-hard.jpeg)
+![noise](https://github.com/guacamole/guacamole/assets/68041753/0b45e87f-d6d4-447c-8143-c4024012d91b)
